@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import pandas as pd 
-from sklearn.datasets import load_iris 
 import matplotlib.pyplot as plt
 import streamlit as st
 from pymongo import MongoClient
