@@ -1,10 +1,7 @@
 import streamlit as st
-import numpy as np
 import pandas as pd 
-import matplotlib.pyplot as plt
 import streamlit as st
 from pymongo import MongoClient
-from pprint import pprint
 
 # 방법1 - URI
 # mongodb_URI = "mongodb://localhost:27017/"
