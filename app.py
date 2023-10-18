@@ -56,7 +56,7 @@ st.sidebar.text(" ")
 st.sidebar.markdown("팀스파르타 데이터정의서입니다.")
 st.sidebar.markdown("정의된 데이터는 [팀스파르타 리대시](https://redash-v2.spartacodingclub.kr/)에서 사용 가능합니다.")
 st.sidebar.markdown("관련하여 궁금한게 있으시다면 온라인팀 김보경에게 문의주세요.")
-st.sidebar.image("/Users/bokyeongkim/scc/chatGPT/Project/hi-mart/img/datamart.png", use_column_width=True)
+st.sidebar.image("https://github.com/kimbo-kyeong/datahimart/blob/main/img/datamart.png?raw=true", use_column_width=True)
 
 st.markdown(
     f"""
